@@ -1,0 +1,8 @@
+{
+  "penalty": "base",
+  "data": "FashionMNIST", 
+  "model": ".\\results\\final\\fashion_cnn_base_9235.pt",
+  "topic": "config file",
+  "outfolder": ".\\results\\final"
+}
+

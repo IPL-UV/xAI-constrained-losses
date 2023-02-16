@@ -1,0 +1,11 @@
+{
+  "penalty": "consistency", 
+  "data": "FashionMNIST",
+  "attribution": "gradients",
+  "lambda": 0.1, 
+  "batch_size": 30,
+  "epoch": 8, 
+  "topic": "config file",
+  "outfolder": ".\\results\\final"
+}
+

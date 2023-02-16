@@ -1,0 +1,9 @@
+{
+  "penalty": "smoothness", 
+  "data": "FashionMNIST",
+  "model": ".\\results\\final\\FashionMNIST_cnn_smoothness_8927.pt",
+  "type": "gauss", 
+  "topic": "config file",
+  "outfolder": ".\\results\\final"
+}
+
