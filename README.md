@@ -18,4 +18,7 @@ The post-hoc explanations obtained with these six different penalization terms a
 * Gaussian perturbations. 
 * Square block perturbations. 
 
+Experiments are performed on the MNIST and Fashion MNIST datasets by training shallow CNNs. The deep learning models are developed in PyTorch and Captum is used for generating post-hoc explanations. In particular, in order to run the code, the following libraries should be installed: 
 
+* numpy
+* 
